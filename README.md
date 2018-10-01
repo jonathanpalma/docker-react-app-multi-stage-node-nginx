@@ -6,11 +6,11 @@ To make this work you have to add your nginx.conf under `server/nginx.conf`
 ### Folder structure
 
 ```bash
-├── public
-├── node_modules
-├── server
+├── public/
+├── node_modules/
+├── server/
 │   ├── nginx.conf
-├── src
+├── src/
 ├── .dockerignore
 ├── .gitignore
 ├── Dockerfile
